@@ -15,9 +15,9 @@ A responsive user dashboard built with HTML, CSS, and Bootstrap, showcasing thre
 
 ## Demo
 Once deployed with GitHub Pages, the site will be available at:
-
+https://github.com/AndreaSalmeronM/cards-responsive
 
 ## How to run locally
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/AndreaSalmeronM/cards-responsive
